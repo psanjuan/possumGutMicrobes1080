@@ -1,4 +1,4 @@
-## Repository for R code that analyzed possum gut microbiomes for the following manuscript
+## Common brushtail possum gut microbiome analysis
 ### **Manuscript title:** Survivors of toxin operations exhibit predictable gut microbiome shifts in invasive possums 
 **Authors:**<br>
 Manpreet K. Dhami [1,2], Priscilla A. San Juan[3], Anastasija Podolyan[1], Sam Brown[1], Bruce Warburton[1], Kyla Johnstone[1], Patrick M. Garvey[1] <br><br>
@@ -11,5 +11,5 @@ Manpreet K. Dhami [1,2], Priscilla A. San Juan[3], Anastasija Podolyan[1], Sam B
 - possum_dada2_bioinform.R
 - possum_Exp1_analysis.R
 - possum_Exp2_analysis.R
- 
+  
 > Abstract:<br>
