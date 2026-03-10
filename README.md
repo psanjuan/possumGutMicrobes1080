@@ -11,9 +11,9 @@ Manpreet K. Dhami [1,2], Priscilla A. San Juan[3], Anastasija Podolyan[1], Sam B
 - possum_dada2_bioinform.R
 - possum_Exp1_analysis.R
 - possum_Exp2_analysis.R
-  
-> Abstract:<br>
-Aerial toxin control operations are central to the management of destructive invasive
+
+**Abstract:**<br>
+> Aerial toxin control operations are central to the management of destructive invasive
 species globally. Despite their effectiveness, aerial operations invariably leave
 survivors, individuals that re-establish pest populations and continue predation
 pressure on native biodiversity. While survivorship following aerial control is well
